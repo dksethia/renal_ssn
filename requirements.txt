@@ -1,0 +1,12 @@
+torch
+pandas
+numpy
+tensorboard
+torchmetrics
+torchvision
+scikit-learn
+matplotlib
+medpy
+labelbox
+h5py
+tqdm
